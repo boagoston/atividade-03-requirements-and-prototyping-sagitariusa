@@ -1,8 +1,8 @@
 # atividade-03-requirements-and-prototyping
 
-Classroom <>
+Esta atividade é para ser realizada em **grupos de dois até três estudantes**, crie um selecione um grupo no seguinte link do classroom: <https://classroom.github.com/g/Hp7q8h6N>
 
-Prazo: 28/abril Peso: 1.0 ponto
+Prazo: 28/abril Peso: 2.0 ponto
 
 ## Objetivo
 
