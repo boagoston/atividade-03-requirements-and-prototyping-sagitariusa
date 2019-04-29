@@ -1,5 +1,9 @@
 # atividade-03-requirements-and-prototyping
 
+INTEGRANTES: Bruno Agoston
+             Kevin Paulo
+             Adriel Telito
+
 Esta atividade é para ser realizada em **grupos de dois até três estudantes**, crie um selecione um grupo no seguinte link do classroom: <https://classroom.github.com/g/Hp7q8h6N>
 
 Prazo: 28/abril Peso: 2.0 ponto
